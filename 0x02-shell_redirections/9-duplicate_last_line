@@ -1,2 +1,2 @@
 #!/bin/bash
-sed ‘10a indicate that events have passed a point of no return.' iacta
+tail -n 1 iacta >> iacta
